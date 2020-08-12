@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,400&display=swap');
+
+body {
+    background-color: #D9E5D6;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: medium;
+    text-align: center;
+    color: #231F20;
+    line-height: normal;
+}
+
+#link:hover {
+  opacity: 0.7;
+}
+
+/*headers*/
+
+h1{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+    font-size: 50px;
+    text-align: center;
+    color: #0FA3B1;
+    padding: auto
+}
+
+h2 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 200;
+    font-size: 50px;
+    text-align: center;
+    color: #FF9B42
+}
+
+/*divs*/
+
+div {
+  background-color: white;
+  width: 50%;
+  margin: 50px auto; 
+  text-align: center; 
+  border: 2px solid #4F4F40;
+  border-radius: 15px;
+}
+
+.social_media{
+
+}
+/*images*/
+
+.companies{
+  width: 100px;
+  border-radius: 50%;
+}
+
+.hobbies{
+  width: 200px;
+  padding: 5px;
+}
+
+#profile {
+  width: 200px;
+  border-radius: 5%;
+  padding-bottom: 20px;
+}
+
+.fa{
+  font-size: 50px;
+  padding: 20px;
+}
